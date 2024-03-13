@@ -1,4 +1,4 @@
-title: "R User Group Tutorial Website"
+title: "Val's fancy website"
 author: "Valerie"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  - {file: "index.html", title: "Index"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
