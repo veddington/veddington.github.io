@@ -5,8 +5,7 @@ layout: post
 categories: media
 ---
 
-
-![Stan](https://github.com/veddington/veddington.github.io/blob/master/assets/IMG_4095.heic)
+![Stan](https://github.com/veddington/veddington.github.io/blob/master/assets/Screenshot%202024-03-13%20at%2012.49.03%20PM.png)
 
 
 ## MathJax
